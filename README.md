@@ -1,5 +1,5 @@
 # Day1
-Day1 of 100 of code challenge
+Day1 of 100 days of code challenge
 
 # Concepts learned
 - Printing
